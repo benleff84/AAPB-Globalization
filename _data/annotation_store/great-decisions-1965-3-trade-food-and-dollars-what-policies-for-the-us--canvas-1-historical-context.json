@@ -1,0 +1,164 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benleff84.github.io/AAPB-Globalization/annotations/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us--canvas-1-historical-context.json",
+  "type": "AnnotationPage",
+  "label": "Historical Context",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us--canvas-1-historical-context-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The speaker is Robert Hilsman, a former US Assistant Secretary of State under the Kennedy and Johnson Administrations.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Historical Context",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://benleff84.github.io/AAPB-Globalization/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benleff84.github.io/AAPB-Globalization/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "11940.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us--canvas-1-historical-context-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "World War II was indeed devastating on the economies of Europe. As referenced in the clip, buildings and factories were destroyed, agricultural economies had been devastated, and governments were deeply in debt.  Many countries also experienced high levels of inflation after the war ended. In this context, the US enacted the Marshall Plan, a foreign aid program that provided over $13 Billion (in 1948 dollars) to facilitate the economic recovery of dozens of countries, including France, West Germany, the United Kingdom.  The effort had genuine humanitarian goals, but also was designed to serve the US economic and political interests.  If the Marshall Plan helped European economies get back on their feet, then those countries could become markets for US exports. Additionally, historians have argued that the Marshall Plan served US Cold War goals. Communist parties were gaining ground in countries like France and Italy, and it was thought that a struggling economy was fertile ground for a Communist takeover.  Thus, stimulating the growth of capitalist economies also served US foreign policy goals.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Historical Context",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://benleff84.github.io/AAPB-Globalization/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benleff84.github.io/AAPB-Globalization/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "17760.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us--canvas-1-historical-context-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This excerpt associates the \"miracle of economic recovery\" in Europe to global trade. The US played a central role in building a global economic order that facilitated this international commerce.  In 1944 at a United Nations meeting at Bretton Woods, New Hampshire, the US and 43 other countires established an agreement for managing international monetary exchange and established the International Monetary Fund as an institution to monitor international economic relations.  The General Agreement of Tariffs and Trade was signed in 1947 with the purpose of achieving \"substantial reduction of tariffs and other trade barriers and the elimination of preferences, on a reciprocal and mutually advantageous basis.” ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Historical Context",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://benleff84.github.io/AAPB-Globalization/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benleff84.github.io/AAPB-Globalization/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "19260.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us--canvas-1-historical-context-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This section discusses the creation of a \"Common Market\" forged between a group of European nations.  This zone of free trade and economic integration between European states ultimately grew and evolved into the European Union.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Historical Context",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://benleff84.github.io/AAPB-Globalization/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benleff84.github.io/AAPB-Globalization/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "24000.0"
+        }
+      }
+    }
+  ]
+}

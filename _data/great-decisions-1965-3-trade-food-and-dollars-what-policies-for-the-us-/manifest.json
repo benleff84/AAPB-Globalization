@@ -23,6 +23,32 @@
         "id": "https://benleff84.github.io/AAPB-Globalization/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1795.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://benleff84.github.io/AAPB-Globalization/annotations/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us--canvas-1-explanation.json",
+            "label": {
+              "none": ["Explanation"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://benleff84.github.io/AAPB-Globalization/annotations/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us--canvas-1-interpretation.json",
+            "label": {
+              "none": ["Interpretation"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://benleff84.github.io/AAPB-Globalization/annotations/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us--canvas-1-historical-context.json",
+            "label": {
+              "none": ["Historical Context"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://benleff84.github.io/AAPB-Globalization/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us-/canvas-1/paintings",

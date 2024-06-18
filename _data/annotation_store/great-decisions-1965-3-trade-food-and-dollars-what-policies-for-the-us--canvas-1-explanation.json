@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benleff84.github.io/AAPB-Globalization/annotations/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us--canvas-1-explanation.json",
+  "type": "AnnotationPage",
+  "label": "Explanation",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us--canvas-1-explanation-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "https://www.khanacademy.org/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/scarcity-and-growth/a/lesson-summary-comparative-advantage-and-gains-from-trade",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Explanation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://benleff84.github.io/AAPB-Globalization/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benleff84.github.io/AAPB-Globalization/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "12780.0"
+        }
+      }
+    }
+  ]
+}

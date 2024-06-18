@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benleff84.github.io/AAPB-Globalization/annotations/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us--canvas-1-interpretation.json",
+  "type": "AnnotationPage",
+  "label": "Interpretation",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us--canvas-1-interpretation-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<html>Notice the way the clip makes a clear about how global trade benefits the United State<i>s, particularly focusing on Americans can gain from exporting to other countries.</i></html>",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Interpretation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://benleff84.github.io/AAPB-Globalization/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benleff84.github.io/AAPB-Globalization/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "20580.0"
+        }
+      }
+    }
+  ]
+}
