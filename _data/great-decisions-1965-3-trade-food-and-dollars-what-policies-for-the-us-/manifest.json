@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://benleff84.github.io/AAPB-Globalization/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Great Decisions 1965; 3; Trade, Food and Dollars: What Policies for the US?" ] },
+    "homepage": [
+      {
+        "id": "https://americanarchive.org/catalog/cpb-aacip-512-dz02z13p16",
+        "type": "Text",
+        "label": { "en": [ "Great Decisions 1965; 3; Trade, Food and Dollars: What Policies for the US?" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://americanarchive.org/",
+        "type": "Agent",
+        "label": { "en": [ "American Archive of Public Broadcasting" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://benleff84.github.io/AAPB-Globalization/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1795.0,
+        "items": [
+          {
+            "id": "https://benleff84.github.io/AAPB-Globalization/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://benleff84.github.io/AAPB-Globalization/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://americanarchive.org/catalog/cpb-aacip-512-dz02z13p16",
+                    "duration": 1795.0
+                },
+                "target": "https://benleff84.github.io/AAPB-Globalization/great-decisions-1965-3-trade-food-and-dollars-what-policies-for-the-us-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
